@@ -1,0 +1,9 @@
+{
+  "name": "india-pincode-api",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.0",
+    "dotenv": "^17.3.1"
+  }
+}
